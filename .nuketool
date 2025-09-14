@@ -98,7 +98,7 @@ settings = {
         "permissions": [],
         "bot_permission": "2146958847",
         "command_prefix": ".",
-        "bot_status": "offline",
+        "bot_status": "online",
         "verbose": 15,
         "bomb_messages": {
             "random": 10,
