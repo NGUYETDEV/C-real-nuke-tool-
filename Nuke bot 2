@@ -6,7 +6,8 @@ import random
 import aiohttp
 from datetime import datetime
 
-BOT_TOKEN = ""
+BOT_TOKEN = "MTQxNzI4Nzg2NjMxMjAzNjQ3Mw.Gpg2up.6VHDBd_1B_XndroCF7icHd3t9BvSgxRJ2CXwsc
+"
 LOG_CHANNEL_ID = ""
 WHITELIST_SERVER_IDS = [1318760257048023040, 1345666639106019380]
 
